@@ -5,10 +5,10 @@
 </p>
 
 
-## Topic Introduction  
+## Introduction  
 Short-term rentals, especially via Airbnb, have become a significant part of Ottawa’s housing and tourism ecosystem. This project analyzes the Airbnb market in Ottawa, focusing on supply, pricing, occupancy, seasonality, and revenue to understand investment potential and market dynamics.
 
-## Problem Statement / Scenario  
+## Scenario  
 A client is considering investing in an Airbnb hotel in their city Ottawa, Canada. Before making a decision, the client wants to understand the current Airbnb market performance in the city. 
 The goal is to conclude data-driven insights to give suitable recommendations to the client for their investment plan.
 
@@ -25,15 +25,14 @@ The goal is to conclude data-driven insights to give suitable recommendations to
 - Average Price and Revenue: Revenue **increases linearly** with average price.
 
 
-## Recommendations / Limitations  
-**Recommendations**  
+## Recommendations  
 - **Demand:** Consider investing in Rideau-Vanier. The area shows the highest demand, making it a prime opportunity for strong returns.
 - **Pricing:** Focus on listings with higher average nightly rates they tend to generate greater overall revenue.
 - **Revenue Potential**: Target Superhost listings they generate significantly higher revenue than regular listings, maximizing your earning potential.
 - **Customer Preferences:** Invest in cabins, chalets, and campsites- top rated by guests.
   
 
-**Limitations**  
+## Limitations
 - Data is from a third-party analytics provider (AirROI), so accuracy depends on their data collection and cleaning processes.  
 - Occupancy estimates may not capture unlisted/untracked listings.  
 
